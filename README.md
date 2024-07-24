@@ -51,7 +51,8 @@ public class EsCode : MonoBehaviour
 
 ### 플레이어 이동과 벽에 닿았을 때 공 튀기기
 
-![sang - GameScene - Windows, Mac, Linux - Unity 2022.3.24f1 _DX11_ 2024-07-24 12-06-14.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/fa97d740-13f6-4ddc-9939-b86bb2c976d6/60a6cf25-5653-43b8-8376-439ecb7363d9/sang_-_GameScene_-_Windows_Mac_Linux_-_Unity_2022.3.24f1__DX11__2024-07-24_12-06-14.gif)
+![sang - GameScene - Windows, Mac, Linux - Unity 2022 3 24f1 _DX11_ 2024-07-24 12-06-14](https://github.com/user-attachments/assets/06d9366e-080e-43a8-ac67-71661c5b807a)
+
 
 ---
 
